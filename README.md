@@ -7,6 +7,6 @@ This script is by kh33 team
 - This script is designed in C++
 
 ### Usage:
-`./join --ip <IP_ADDRESS> --port <PORT> --protocol <PROTOCOL> --cps <CPS> --time <TIME>`
+`./join --ip <IP> --port <PORT> --protocol <PROTOCOL> --cps <CPS> --time <TIME>`
 
 recommended --cps 120
