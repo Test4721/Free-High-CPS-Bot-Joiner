@@ -1,4 +1,4 @@
-# Free-High-CPS-Bot-Joiner
+# Free-High-CPS-SCRIPT (BETA)
 
 This script is by kh33 team
 
